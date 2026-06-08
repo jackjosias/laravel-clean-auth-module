@@ -2,7 +2,7 @@
   "name": "clean-auth/laravel-clean-auth-module",
   "type": "project",
   "description": "Production-grade Laravel 11 clean architecture authentication module.",
-  "license": "MIT",
+  "license": "GPL-3.0-only",
   "require": {
     "php": "^8.3",
     "laravel/framework": "^12.60",
